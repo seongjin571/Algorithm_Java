@@ -3,7 +3,7 @@ package Chap01_BasicAlgorithm;
 import java.util.Scanner;
 // 3개의 정숫값을 입력하고 최댓값을 구합니다.
 
-class P1_Max3 {
+class P01_Max3 {
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);
 
