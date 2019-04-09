@@ -10,7 +10,7 @@ public class Q11 {
 //			if((num/check)>=1) {
 //				check = check*10;
 //				size += 1;
-//			}
+//			} 
 //			else break;
 //		}
 //		return size;
