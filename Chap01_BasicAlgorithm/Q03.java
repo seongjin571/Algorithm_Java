@@ -2,7 +2,7 @@ package Chap01_BasicAlgorithm;
 
 import java.util.Scanner;
 
-public class Q3 {
+public class Q03 {
 	static int min4(int a, int b, int c, int d) {
 		int min = a;
 		if(b<a) min = b;

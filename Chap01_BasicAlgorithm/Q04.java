@@ -1,6 +1,6 @@
 package Chap01_BasicAlgorithm;
 
-public class Q4 {
+public class Q04 {
 	static int med3(int a, int b, int c) {
 		if(a >= b)
 			if(a <= c)

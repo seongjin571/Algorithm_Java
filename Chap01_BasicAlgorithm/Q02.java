@@ -1,6 +1,6 @@
 package Chap01_BasicAlgorithm;
 
-public class Q2 {
+public class Q02 {
 	static int min3(int a, int b, int c) {
 		int min = a;
 		if(b<a) min = b;

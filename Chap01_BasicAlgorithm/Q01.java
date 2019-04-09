@@ -2,7 +2,7 @@ package Chap01_BasicAlgorithm;
 
 import java.util.Scanner;
 
-public class Q1 {
+public class Q01 {
 	static int max4(int a, int b, int c, int d) {
 		int max = a;
 		if (b > a)
