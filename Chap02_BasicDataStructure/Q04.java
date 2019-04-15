@@ -2,7 +2,7 @@ package Chap02_BasicDataStructure;
 
 import java.util.Scanner;
 
-public class Q4 {
+public class Q04 {
 	static boolean equlas(int[] a, int[] b) {
 		if (a.length != b.length)
 			return false;

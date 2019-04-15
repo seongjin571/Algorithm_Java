@@ -1,6 +1,6 @@
 package Chap02_BasicDataStructure;
 
-public class Q3 {
+public class Q03 {
 	static int sum(int[] num) {
 		int numLength = num.length;
 		int sum = 0;
