@@ -1,6 +1,6 @@
 package Chap02_BasicDataStructure;
 
-public class Q2 {
+public class Q02 {
 	static void reverse(int[] num) {
 		int numLength = num.length;
 		for(int i = 0;  i < numLength/2; i++) {
