@@ -19,6 +19,7 @@ public class P10 {
 		for(i = 0; i < ptr; i++) {
 			System.out.println(array[i]);
 		}
+		
 		System.out.println(count);
 	}
 
