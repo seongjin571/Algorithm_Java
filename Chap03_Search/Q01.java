@@ -5,12 +5,15 @@ import java.util.Scanner;
 public class Q01 {
 	static int scan(int[]array, int num) {
 		array[array.length-1] = num;
+		int result = 0;
 		int length = array.length;
 		for(int i = 0; i < length; i++) {
-			if(array[i] == num) 
-				return i;
+			if(array[i] == num) {
+				result = i;
+				break;
+			}
 		}
-		return 0;
+		return result;
 	}
 	public static void main(String []args) {
 		Scanner scan = new Scanner(System.in);
